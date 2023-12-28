@@ -11,6 +11,6 @@ ${URL}    https://login.salesforce.com/
 *** Test Cases ***
 Login into Salesforce Org
     GoTo    ${URL}    timeout=10
-    TypeText          Username    vaibhav2@modigie.com
-    TypeText          Password    Pa$$word!23
+    TypeText          Username    jwagner@verifytx.com
+    TypeText          Password    STXa^35SJ9zG8Ez
     ClickText         Log In
